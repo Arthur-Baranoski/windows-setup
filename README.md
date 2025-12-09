@@ -9,7 +9,7 @@ Script PowerShell automatizado para instalar programas em Windows via `winget`. 
 Abra o **PowerShell como Administrador** e execute:
 
 ```powershell
-irm https://raw.githubusercontent.com/Arthur-Baranoski/windows-setup/main/install.ps1 | iex
+irm bit.ly/windows-setup | iex
 ```
 
 ### Metodo 2: Baixar e executar
